@@ -36,7 +36,7 @@ Requires Paseo **0.15.3+** and `git` on the daemon's `PATH`. No settings.
 
 - **Desktop and web only.** Mobile is not supported.
 - **Unknown rows stay normal.** If a row's path can't be worked out — for example a deep row whose parent folder is scrolled out of view — it is left alone rather than guessed.
-- **Built on the explorer's markup.** Paseo has no explorer decoration API yet, so the plugin reads rows from the page. A Paseo update that changes that markup can break it.
+- **Built on the explorer's markup.** Paseo has no explorer decoration API yet, so the plugin reads rows from the page. A Paseo update that changes that markup can break it. Last verified with **Paseo 0.15.3**.
 
 ## Development
 
