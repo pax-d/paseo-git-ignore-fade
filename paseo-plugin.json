@@ -1,0 +1,7 @@
+{
+  "id": "git-ignore-fade",
+  "name": "Git Ignore Fade",
+  "description": "Fades git-ignored files and folders in the Files explorer.",
+  "requirements": { "paseo": ">=0.15.3" },
+  "media": ["assets/screenshot.png"]
+}
